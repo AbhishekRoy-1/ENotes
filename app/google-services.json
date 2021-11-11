@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911159304011",
+    "project_id": "enotes-c851d",
+    "storage_bucket": "enotes-c851d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911159304011:android:f933e06bd0500e235312ce",
+        "android_client_info": {
+          "package_name": "com.enotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911159304011-6kfs3qodkutsmu60hbg20i6s0qb00vud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enotes",
+            "certificate_hash": "6487bf74752df15cf9d54759631b70c7792d35fa"
+          }
+        },
+        {
+          "client_id": "911159304011-og0fub50ib0hgv1eq5g97udmgc4tj840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwq3dScvaGj-C7wm7bfz3EXJt1eLm_TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911159304011-og0fub50ib0hgv1eq5g97udmgc4tj840.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
